@@ -9,16 +9,19 @@ It contains an implementation of the QUINTIC algorithm, code for running experim
 To cite this work:
 ```
 @inproceedings{hsiung2026quintic,
-        title={Learning Quantitative Automata Modulo Theories}, 
-        author={Eric Hsiung and Nathan Tsoi and Swarat Chaudhuri and Joydeep Biswas},
-        booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence, {IJCAI} 2026}
-        year={2026},
-        note      = {Forthcoming.}
-        eprint={2411.10601},
-        archivePrefix={arXiv},
-        primaryClass={cs.FL},
-        url={https://arxiv.org/abs/2411.10601}
-      }
+  title     = {Learning Quantitative Automata Modulo Theories},
+  author    = {Hsiung, Eric and Tsoi, Nathan and Chaudhuri, Swarat and Biswas, Joydeep},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on
+               Artificial Intelligence, {IJCAI-26}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Diego Calvanese},
+  pages     = {2247--2255},
+  year      = {2026},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2026/250},
+  url       = {https://doi.org/10.24963/ijcai.2026/250},
+}
 ```
 
 Requirements:
